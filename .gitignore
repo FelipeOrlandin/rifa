@@ -20,5 +20,6 @@
 /public/storage
 /storage/*.key
 /storage/pail
+/vendor
 _thumbs.db
 php.ini
